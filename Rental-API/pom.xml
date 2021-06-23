@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <org.apache.cxf.version>3.0.0-milestone2</org.apache.cxf.version>
         <org.springframework.version>4.0.2.RELEASE</org.springframework.version>
-        <org.eclipse.jetty.version>9.1.3.v20140225</org.eclipse.jetty.version>
+        <org.eclipse.jetty.version>9.4.41.v20210516</org.eclipse.jetty.version>
         <jackson.version>2.8.8</jackson.version>
         <mysql-connector-java.version>5.1.24</mysql-connector-java.version>
         <jjwt.version>0.7.0</jjwt.version>
